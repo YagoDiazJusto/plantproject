@@ -27,7 +27,7 @@ h1{
 }
 .image-gallery::after{
     content:"";
-    flex-basis: 350px;
+    flex-basis: 450px;
 }
 .container{
     display: flex;
