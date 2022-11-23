@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Plants gallery Images</title>
+ <subtitle>Exotic Plants</subtitle>
+ <updated>2022-11-23T10:00:00Z</updated>
+ <entry>
+ <author>
+ <name>Yago Diaz</name>
+ </author>
+ <title>Candy Cane</title>
+ <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+ <updated>2022-11-23T10:00:00Z</updated>
+ <published>2022-11-23T10:00:00Z</published>
+ </entry>
+</feed>
