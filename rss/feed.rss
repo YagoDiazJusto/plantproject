@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="/LinguaxesDeMarcas/plantproject/index.html">
+<feed xmlns="http://www.w3.org/2005/Atom">
  <title>Plants gallery Images</title>
  <subtitle>Exotic Plants</subtitle>
  <updated>2022-11-23T10:00:00Z</updated>
  <entry>
+ <link>https://yagodiazjusto.github.io/plantproject/plant.html</link>
  <author>
  <name>Yago Diaz</name>
  </author>
